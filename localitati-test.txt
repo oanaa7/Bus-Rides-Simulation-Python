@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.localitate.Localitate", "_Entitate__id_entitate": "1", "_Localitate__nume": "Fagaras", "_Localitate__tip": "municipiu"}}

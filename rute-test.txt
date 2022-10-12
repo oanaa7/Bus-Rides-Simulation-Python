@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.ruta.Ruta", "_Entitate__id_entitate": "1", "_Ruta__id_oras_pornire": "1", "_Ruta__id_oras_oprire": "2", "_Ruta__pret": 10, "_Ruta__dus_intors": "true"}}

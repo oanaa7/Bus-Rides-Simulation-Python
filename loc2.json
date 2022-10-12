@@ -1,0 +1,11 @@
+{
+  "fagaras": [
+    "brasov"
+  ],
+  "brasov": [
+    "fagaras"
+  ],
+  "cluj-napoca": [
+    "fagaras"
+  ]
+}
